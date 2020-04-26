@@ -1,4 +1,4 @@
-# Customer-Segmentation Of Retail Shop Using K - Means Clustering
+# Customer-Segmentation Of Retail Shop Using K - Means 
 
 A VISUAL INTRODUCTION TO K-MEANS ALGORITHM
 
