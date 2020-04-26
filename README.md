@@ -1,4 +1,4 @@
-# Customer-Segmentation Of Online Retail Shop Using K - Means Clustering
+# Customer-Segmentation Of Retail Shop Using K - Means Clustering
 
 A VISUAL INTRODUCTION TO K-MEANS ALGORITHM
 
