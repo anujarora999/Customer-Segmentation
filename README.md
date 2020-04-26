@@ -25,14 +25,14 @@ Date	Recency	Frequency	Monetary	Rank	R_Quartile	F_Quartile	M_Quartile	RFM_Score
 
 Customer Id			
 
-1	2010-12-12	362	7	34000	37.5	2	2	1	221
-2	2010-12-14	360	7	46000	27.5	4	2	2	422
-3	2010-12-06	368	2	12000	50.0	1	1	1	111
-4	2010-12-14	360	9	57000	13.5	4	3	3	433
-5	2010-12-13	361	8	50000	21.0	3	2	3	323
+- 2010-12-12	362	7	34000	37.5	2	2	1	221
+- 2010-12-14	360	7	46000	27.5	4	2	2	422
+- 2010-12-06	368	2	12000	50.0	1	1	1	111
+- 2010-12-14	360	9	57000	13.5	4	3	3	433
+- 2010-12-13	361	8	50000	21.0	3	2	3	323
 
 
-Pre-Processing & Visualization
+### Pre-Processing & Visualization
 
 •	Pre-processing of the data is performed in which the missing data is identified and evaluated.
 •	Data is normalized for transforming values of several variables into a similar range.
